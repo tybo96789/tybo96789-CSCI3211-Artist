@@ -1,0 +1,19 @@
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="NY7EX9SUEMPUW">
+<table>
+<tr><td><input type="hidden" name="on0" value="Art Work">Art Work</td></tr><tr><td><select name="os0">
+	<option value="Muse">Muse $100.00 USD</option>
+	<option value="Cartwheel Madonna">Cartwheel Madonna $100.00 USD</option>
+	<option value="Mystic">Mystic $100.00 USD</option>
+	<option value="Luxe">Luxe $100.00 USD</option>
+	<option value="Close-Up">Close-Up $100.00 USD</option>
+	<option value="Korina">Korina $100.00 USD</option>
+	<option value="Blue Heart">Blue Heart $100.00 USD</option>
+	<option value="Cheska">Cheska $100.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
